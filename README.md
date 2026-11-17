@@ -1,5 +1,8 @@
 ﻿# ingenieria_satelites
 
+## Credenciales
+ssh pi@sonda.local
+pass: raspberry
 ## Activar entorno virtual de carpeta ingenieria_satelites:
 source ~/bmp280-env/bin/activate  
 
